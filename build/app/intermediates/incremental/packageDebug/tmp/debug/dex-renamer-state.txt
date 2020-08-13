@@ -1,4 +1,4 @@
-#Thu Aug 13 16:43:45 EEST 2020
+#Thu Aug 13 18:53:12 EEST 2020
 base.0=/Users/marwanos/Desktop/programs/Flutter_projects/neuronap/neuronap/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
